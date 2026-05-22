@@ -66342,7 +66342,7 @@ p=A.c([],t.AD)
 for(o=c.length,n=0,m=0;m<c.length;c.length===o||(0,A.v)(c),++m){l=c[m]
 k=l.a
 j=l.b
-i=e.a14(q,e.a15(q.length,0.2,0.35))
+i=e.a14(q,e.a15(q.length,0.25,0.5))
 l=i.length
 if(l===0){h=e.a16(b,a,a2,0,0.3839724354387525,d,500)
 g=0}else if(l===1){f=i[0]
@@ -67069,7 +67069,7 @@ var $async$nK=A.G(function(a,b){if(a===1)return A.C(b,r)
 for(;;)switch(s){case 0:B.b.K(q.z)
 B.b.K(q.Q)
 s=2
-return A.J(q.nO(new A.km(q.f.aam(q.w,q.r,3,4,q.x))),$async$nK)
+return A.J(q.nO(new A.km(q.f.aam(q.w,q.r,6,4,q.x))),$async$nK)
 case 2:return A.D(null,r)}})
 return A.E($async$nK,r)},
 us(a){return this.a9m(a)},
