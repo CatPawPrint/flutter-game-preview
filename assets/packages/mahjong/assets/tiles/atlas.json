@@ -1,0 +1,304 @@
+{
+  "cols": 9,
+  "rows": 5,
+  "cellW": 240,
+  "cellH": 300,
+  "aspect": 0.8,
+  "source": "Cangjie6, Wikimedia Commons, CC BY-SA 4.0",
+  "tiles": [
+    {
+      "index": 0,
+      "name": "東",
+      "kind": "wind",
+      "code": "MJf1",
+      "unicode": "U+1F000"
+    },
+    {
+      "index": 1,
+      "name": "南",
+      "kind": "wind",
+      "code": "MJf2",
+      "unicode": "U+1F001"
+    },
+    {
+      "index": 2,
+      "name": "西",
+      "kind": "wind",
+      "code": "MJf3",
+      "unicode": "U+1F002"
+    },
+    {
+      "index": 3,
+      "name": "北",
+      "kind": "wind",
+      "code": "MJf4",
+      "unicode": "U+1F003"
+    },
+    {
+      "index": 4,
+      "name": "中",
+      "kind": "dragon",
+      "code": "MJd1",
+      "unicode": "U+1F004"
+    },
+    {
+      "index": 5,
+      "name": "發",
+      "kind": "dragon",
+      "code": "MJd2",
+      "unicode": "U+1F005"
+    },
+    {
+      "index": 6,
+      "name": "白",
+      "kind": "dragon",
+      "code": "MJd3",
+      "unicode": "U+1F006"
+    },
+    {
+      "index": 9,
+      "name": "1m",
+      "kind": "wan",
+      "code": "MJw1",
+      "unicode": "U+1F007"
+    },
+    {
+      "index": 10,
+      "name": "2m",
+      "kind": "wan",
+      "code": "MJw2",
+      "unicode": "U+1F008"
+    },
+    {
+      "index": 11,
+      "name": "3m",
+      "kind": "wan",
+      "code": "MJw3",
+      "unicode": "U+1F009"
+    },
+    {
+      "index": 12,
+      "name": "4m",
+      "kind": "wan",
+      "code": "MJw4",
+      "unicode": "U+1F00A"
+    },
+    {
+      "index": 13,
+      "name": "5m",
+      "kind": "wan",
+      "code": "MJw5",
+      "unicode": "U+1F00B"
+    },
+    {
+      "index": 14,
+      "name": "6m",
+      "kind": "wan",
+      "code": "MJw6",
+      "unicode": "U+1F00C"
+    },
+    {
+      "index": 15,
+      "name": "7m",
+      "kind": "wan",
+      "code": "MJw7",
+      "unicode": "U+1F00D"
+    },
+    {
+      "index": 16,
+      "name": "8m",
+      "kind": "wan",
+      "code": "MJw8",
+      "unicode": "U+1F00E"
+    },
+    {
+      "index": 17,
+      "name": "9m",
+      "kind": "wan",
+      "code": "MJw9",
+      "unicode": "U+1F00F"
+    },
+    {
+      "index": 18,
+      "name": "1s",
+      "kind": "sou",
+      "code": "MJs1",
+      "unicode": "U+1F010"
+    },
+    {
+      "index": 19,
+      "name": "2s",
+      "kind": "sou",
+      "code": "MJs2",
+      "unicode": "U+1F011"
+    },
+    {
+      "index": 20,
+      "name": "3s",
+      "kind": "sou",
+      "code": "MJs3",
+      "unicode": "U+1F012"
+    },
+    {
+      "index": 21,
+      "name": "4s",
+      "kind": "sou",
+      "code": "MJs4",
+      "unicode": "U+1F013"
+    },
+    {
+      "index": 22,
+      "name": "5s",
+      "kind": "sou",
+      "code": "MJs5",
+      "unicode": "U+1F014"
+    },
+    {
+      "index": 23,
+      "name": "6s",
+      "kind": "sou",
+      "code": "MJs6",
+      "unicode": "U+1F015"
+    },
+    {
+      "index": 24,
+      "name": "7s",
+      "kind": "sou",
+      "code": "MJs7",
+      "unicode": "U+1F016"
+    },
+    {
+      "index": 25,
+      "name": "8s",
+      "kind": "sou",
+      "code": "MJs8",
+      "unicode": "U+1F017"
+    },
+    {
+      "index": 26,
+      "name": "9s",
+      "kind": "sou",
+      "code": "MJs9",
+      "unicode": "U+1F018"
+    },
+    {
+      "index": 27,
+      "name": "1p",
+      "kind": "tong",
+      "code": "MJt1",
+      "unicode": "U+1F019"
+    },
+    {
+      "index": 28,
+      "name": "2p",
+      "kind": "tong",
+      "code": "MJt2",
+      "unicode": "U+1F01A"
+    },
+    {
+      "index": 29,
+      "name": "3p",
+      "kind": "tong",
+      "code": "MJt3",
+      "unicode": "U+1F01B"
+    },
+    {
+      "index": 30,
+      "name": "4p",
+      "kind": "tong",
+      "code": "MJt4",
+      "unicode": "U+1F01C"
+    },
+    {
+      "index": 31,
+      "name": "5p",
+      "kind": "tong",
+      "code": "MJt5",
+      "unicode": "U+1F01D"
+    },
+    {
+      "index": 32,
+      "name": "6p",
+      "kind": "tong",
+      "code": "MJt6",
+      "unicode": "U+1F01E"
+    },
+    {
+      "index": 33,
+      "name": "7p",
+      "kind": "tong",
+      "code": "MJt7",
+      "unicode": "U+1F01F"
+    },
+    {
+      "index": 34,
+      "name": "8p",
+      "kind": "tong",
+      "code": "MJt8",
+      "unicode": "U+1F020"
+    },
+    {
+      "index": 35,
+      "name": "9p",
+      "kind": "tong",
+      "code": "MJt9",
+      "unicode": "U+1F021"
+    },
+    {
+      "index": 36,
+      "name": "梅",
+      "kind": "flower",
+      "code": "MJh5",
+      "unicode": "U+1F022"
+    },
+    {
+      "index": 37,
+      "name": "蘭",
+      "kind": "flower",
+      "code": "MJh6",
+      "unicode": "U+1F023"
+    },
+    {
+      "index": 38,
+      "name": "菊",
+      "kind": "flower",
+      "code": "MJh7",
+      "unicode": "U+1F025"
+    },
+    {
+      "index": 39,
+      "name": "竹",
+      "kind": "flower",
+      "code": "MJh8",
+      "unicode": "U+1F024"
+    },
+    {
+      "index": 40,
+      "name": "春",
+      "kind": "flower",
+      "code": "MJh1",
+      "unicode": "U+1F026"
+    },
+    {
+      "index": 41,
+      "name": "夏",
+      "kind": "flower",
+      "code": "MJh2",
+      "unicode": "U+1F027"
+    },
+    {
+      "index": 42,
+      "name": "秋",
+      "kind": "flower",
+      "code": "MJh3",
+      "unicode": "U+1F028"
+    },
+    {
+      "index": 43,
+      "name": "冬",
+      "kind": "flower",
+      "code": "MJh4",
+      "unicode": "U+1F029"
+    }
+  ]
+}
