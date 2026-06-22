@@ -21332,7 +21332,7 @@ aD9(a,b){var s,r,q,p,o=a.c
 switch(a.a.a){case 0:return B.JN
 case 1:return new A.hG(1-0.08*o*Math.sin(b*3.141592653589793),1,0,0)
 case 2:s=Math.sin(b*3.141592653589793)
-return new A.hG(1-0.3*o*s,1+0.18*o*s,0,0)
+return new A.hG(1+0.12*o*s,1-0.3*o*s,0,0)
 case 3:r=Math.sin(b*3.141592653589793)
 return new A.hG(1,1,0.3*o*Math.sin(b*4*3.141592653589793)*r,0)
 case 4:s=Math.sin(b*3.141592653589793)
@@ -71268,7 +71268,7 @@ A.a0Y.prototype={
 $2(a,b){var s,r=null,q=A.c([],t.E)
 if(b!=null)q.push(b)
 s=A.c_(a,r,t.w).w
-q.push(A.ak2(r,A.w1(new A.Lq("1a3f2cd\xb70622T1210Z",r),!0,r),r,r,r,10,s.r.b+6,r))
+q.push(A.ak2(r,A.w1(new A.Lq("1a3f2cd\xb70622T1219Z",r),!0,r),r,r,r,10,s.r.b+6,r))
 return A.r7(B.d1,q,B.cP,r)},
 $S:438}
 A.Ch.prototype={
