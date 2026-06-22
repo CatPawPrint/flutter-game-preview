@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <style>.ink{fill:var(--ink,#28262a)}.ground{fill:var(--ground,#faf3df)}</style>
-  <polygon points="50.00,-2.72 102.72,50.00 50.00,102.72 -2.72,50.00" class="ink"/>
-  <polygon points="50.00,7.18 92.82,50.00 50.00,92.82 7.18,50.00" class="ground"/>
+  <polygon points="50.00,-2.72 102.72,50.00 50.00,102.72 -2.72,50.00" fill="#28262a"/>
+  <polygon points="50.00,7.18 92.82,50.00 50.00,92.82 7.18,50.00" fill="#faf3df"/>
 </svg>

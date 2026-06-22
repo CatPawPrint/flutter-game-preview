@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <style>.ink{fill:var(--ink,#28262a)}.ground{fill:var(--ground,#faf3df)}</style>
-  <polygon points="50.00,5.00 101.96,95.00 -1.96,95.00" class="ink"/>
-  <polygon points="50.00,19.00 89.84,88.00 10.16,88.00" class="ground"/>
+  <polygon points="50.00,5.00 101.96,95.00 -1.96,95.00" fill="#28262a"/>
+  <polygon points="50.00,19.00 89.84,88.00 10.16,88.00" fill="#faf3df"/>
   <defs><clipPath id="clip_mike"><polygon points="50.00,5.00 101.96,95.00 -1.96,95.00"/></clipPath></defs>
-  <g clip-path="url(#clip_mike)"><ellipse cx="30.68" cy="48.44" rx="23.92" ry="23.92" class="ink"/><ellipse cx="73.00" cy="87.08" rx="20.24" ry="20.24" class="ink"/></g>
+  <g clip-path="url(#clip_mike)"><ellipse cx="30.68" cy="48.44" rx="23.92" ry="23.92" fill="#28262a"/><ellipse cx="73.00" cy="87.08" rx="20.24" ry="20.24" fill="#28262a"/></g>
 </svg>
