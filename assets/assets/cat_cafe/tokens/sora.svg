@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>.ink{fill:var(--ink,#28262a)}.ground{fill:var(--ground,#faf3df)}</style>
+  <polygon points="50.00,5.00 97.32,39.38 79.24,95.00 20.76,95.00 2.68,39.38" class="ink"/>
+  <polygon points="50.00,13.65 89.09,42.05 74.16,88.00 25.84,88.00 10.91,42.05" class="ground"/>
+  <defs><clipPath id="clip_sora"><polygon points="50.00,5.00 97.32,39.38 79.24,95.00 20.76,95.00 2.68,39.38"/></clipPath></defs>
+  <circle cx="50" cy="54.75" r="24" class="ink"/>
+</svg>

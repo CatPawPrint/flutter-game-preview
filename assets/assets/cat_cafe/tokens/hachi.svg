@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>.ink{fill:var(--ink,#28262a)}.ground{fill:var(--ground,#faf3df)}</style>
+  <polygon points="74.12,8.23 98.23,50.00 74.12,91.77 25.88,91.77 1.77,50.00 25.88,8.23" class="ink"/>
+  <polygon points="70.07,15.23 90.15,50.00 70.07,84.77 29.93,84.77 9.85,50.00 29.93,15.23" class="ground"/>
+  <defs><clipPath id="clip_hachi"><polygon points="74.12,8.23 98.23,50.00 74.12,91.77 25.88,91.77 1.77,50.00 25.88,8.23"/></clipPath></defs>
+  <g clip-path="url(#clip_hachi)"><circle cx="9.85" cy="9.85" r="47.37" class="ink"/><circle cx="90.15" cy="9.85" r="47.37" class="ink"/></g>
+</svg>
